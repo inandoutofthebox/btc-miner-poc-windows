@@ -394,3 +394,4 @@ This repo contains a fully standalone, cross-platform, GPU hashminer (Bitcoin/Al
 
 See the source files `bitcoin_cuda.cu` and `miner.go` for all technical details.  
 Questions? Just open an issue in the repo!
+
