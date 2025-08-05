@@ -5,6 +5,7 @@
   <br><br>
   <b>Ultra-optimized CUDA Miner for Bitcoin and Many Altcoins</b><br>
   <i>Fully designed for NVIDIA RTX 4080 GPU · Direct CUDA & Go Integration · Windows 10/11 & Linux</i>
+  <i>Does this makes senseat all? No not at all theres better Hardware for more efficient Cryptomining results. This is just a POC since GPU mining on newer NVIDIA Hardware wasnt possible...</i>
 </div>
 
 ---
